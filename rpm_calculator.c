@@ -1,3 +1,5 @@
+//Mirka Rules! (test)
+
 #include <stdio.h>
 #include <signal.h>    //signal, SIGINT, SIGQUIT, SIGTERM
 #include <string.h>
